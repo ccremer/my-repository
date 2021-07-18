@@ -6,4 +6,4 @@ Adjust variables in `.sync.yml`.
 -->
 # my-repository
 
-My awesome, greposync managed repository
+This is my new description!
