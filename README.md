@@ -1,2 +1,9 @@
+<!--
+This file is managed by greposync.
+Do not modify manually.
+Adjust variables in `.sync.yml`.
+
+-->
 # my-repository
-test
+
+My awesome, greposync managed repository
